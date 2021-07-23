@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BudgetPlanner/1.0.0": {
+        "dependencies": {
+          "BudgetPlanner.App": "1.0.0",
+          "BudgetPlanner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BudgetPlanner.dll": {}
+        }
+      },
+      "BudgetPlanner.App/1.0.0": {
+        "dependencies": {
+          "BudgetPlanner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BudgetPlanner.App.dll": {}
+        }
+      },
+      "BudgetPlanner.Domain/1.0.0": {
+        "runtime": {
+          "BudgetPlanner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BudgetPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BudgetPlanner.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BudgetPlanner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

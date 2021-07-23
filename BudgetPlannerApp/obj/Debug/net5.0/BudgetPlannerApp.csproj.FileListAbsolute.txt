@@ -1,0 +1,16 @@
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.exe
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.deps.json
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.runtimeconfig.json
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.runtimeconfig.dev.json
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.dll
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\ref\BudgetPlannerApp.dll
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\bin\Debug\net5.0\BudgetPlannerApp.pdb
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.csproj.AssemblyReference.cache
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.AssemblyInfoInputs.cache
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.AssemblyInfo.cs
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.dll
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\ref\BudgetPlannerApp.dll
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.pdb
+C:\Users\harez\source\repos\BudgetPlannerApp\BudgetPlannerApp\obj\Debug\net5.0\BudgetPlannerApp.genruntimeconfig.cache
